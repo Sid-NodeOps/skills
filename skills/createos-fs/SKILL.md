@@ -1,5 +1,5 @@
 ---
-name: backend-api-nodejs
+name: createos-fs
 description: "Generate a Node.js (Express) backend API with Swagger/OpenAPI documentation. Use for: REST APIs, backend scaffolds, CRUD endpoints, in-memory or PostgreSQL storage. Triggers: build a backend API, generate Express endpoints, backend with Swagger, Node.js API, create endpoints, REST API."
 ---
 
